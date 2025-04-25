@@ -1,6 +1,6 @@
 # React + Vite
 
- 👉  [react-movies](https://effortless-sherbet-e856fa.netlify.app/)
+ 👉  Click here -  [react-movies](https://effortless-sherbet-e856fa.netlify.app/)
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
