@@ -1,7 +1,11 @@
+👉  Click here -  [react-movies](https://effortless-sherbet-e856fa.netlify.app/)
+
+
+![FearlessYearOfShadowYearOfShadowGIF](https://github.com/user-attachments/assets/a3fe32a8-bde1-4ffa-af09-0336ea99db65)
+
+
+
 # React + Vite
-
- 👉  Click here -  [react-movies](https://effortless-sherbet-e856fa.netlify.app/)
-
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
